@@ -1,0 +1,8 @@
+{
+  "name": "Aura - AI Schedule & Reminder Assistant",
+  "description": "Intelligent personal assistant powered by Gemini that proactively organizes your daily schedule, optimizes time-blocking, detects conflicts, and manages smart reminders with voice and natural language.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
